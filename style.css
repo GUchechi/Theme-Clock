@@ -43,3 +43,8 @@ body {
     position: absolute;
     top: 100px;
   }
+
+
+.toggle:focus {
+  outline: none;
+}
